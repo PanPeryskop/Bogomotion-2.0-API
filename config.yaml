@@ -1,0 +1,8 @@
+path: D:/pyton/HackEmotionV2/data
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+names: ['angry', 'disgust', 'fear', 'happy', 'neutral', 'sad', 'surprise']
