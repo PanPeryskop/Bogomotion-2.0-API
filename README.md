@@ -12,12 +12,12 @@ This module uses a YOLO model to detect emotions from images. The model has an a
 
 | Image | Description |
 |-------|-------------|
-| ![Predictions](https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/val_batch1_pred.jpg) | *Predictions* |
-| ![Labels](https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/labels.jpg) | *Labels* |
-| ![Confusion Matrix](https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/confusion_matrix_normalized.png) | *Confusion Matrix* |
-| ![R Curve](https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/R_curve.png) | *R Curve* |
-| ![P Curve](https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/P_curve.png) | *P Curve* |
-| ![PR Curve](https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/PR_curve.png) | *PR Curve* |
+| <img src="https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/val_batch1_pred.jpg" alt="Predictions" width="300"/> | *Predictions* |
+| <img src="https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/labels.jpg" alt="Labels" width="300"/> | *Labels* |
+| <img src="https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/confusion_matrix_normalized.png" alt="Confusion Matrix" width="300"/> | *Confusion Matrix* |
+| <img src="https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/R_curve.png" alt="R Curve" width="300"/> | *R Curve* |
+| <img src="https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/P_curve.png" alt="P Curve" width="300"/> | *P Curve* |
+| <img src="https://raw.githubusercontent.com/PanPeryskop/bogomotion-2.0-ai-module/refs/heads/main/runs/detect/train13/PR_curve.png" alt="PR Curve" width="300"/> | *PR Curve* |
 
 ### 3. Emotion Detection from Audio
 This module uses a pre-trained Wav2Vec2 model to detect emotions from audio files.
