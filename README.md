@@ -1,6 +1,6 @@
 # BogoMotion 2.0 API
 
-This project is an API for the [BogoMotion2](https://github.com/azizko1337/bogomotion2). It provides various functionalities including image quality checking, emotion detection from images and audio, auto labeling, noise detection, and language model generation.
+This project is an API for the [BogoMotion2](https://github.com/azizko1337/bogomotion2). It provides various functionalities including image quality checking, emotion detection from images and audio, auto labeling, noise detection, and chat api based on llama2.
 
 ## Modules
 
