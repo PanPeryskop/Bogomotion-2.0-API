@@ -40,6 +40,8 @@ This module uses a Llama model to generate text based on a given prompt. The mod
     pip install -r requirements.txt
     ```
 
+3. Install PyTorch from [PyTorch's official site](https://pytorch.org/get-started/locally/).
+
 ## Usage
 
 1. **Run the API**:
