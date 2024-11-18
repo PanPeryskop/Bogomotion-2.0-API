@@ -2,6 +2,9 @@
 
 This project is an API for the [BogoMotion2](https://github.com/azizko1337/bogomotion2). It provides various functionalities including image quality checking, emotion detection from images and audio, auto labeling, noise detection, and chat api based on llama2.
 
+**This project won 2nd place in the 2nd edition of the HackEmotion 24h hackathon organized by the University of Silesia.**
+
+
 ## Modules
 
 ### 1. Image Quality Checker
