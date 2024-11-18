@@ -33,7 +33,6 @@ This module uses a Llama model to generate text based on a given prompt. The mod
 1. Clone the repository:
     ```bash
     git clone https://github.com/PanPeryskop/Bogomotion-2.0-API
-    cd bogomotion2
     ```
 
 2. Install the required dependencies:
