@@ -1,4 +1,4 @@
-# BogoMotion2 API
+# BogoMotion 2.0 API
 
 This project is an API for the [BogoMotion2](https://github.com/azizko1337/bogomotion2). It provides various functionalities including image quality checking, emotion detection from images and audio, auto labeling, noise detection, and language model generation.
 
@@ -32,7 +32,7 @@ This module uses a Llama model to generate text based on a given prompt. The mod
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/azizko1337/bogomotion2.git
+    git clone https://github.com/PanPeryskop/Bogomotion-2.0-API
     cd bogomotion2
     ```
 
