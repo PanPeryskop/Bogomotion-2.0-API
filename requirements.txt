@@ -1,0 +1,16 @@
+requests
+numpy
+pandas
+audiofile
+transformers
+pydub
+Pillow
+opencv-python
+ultralytics
+langchain
+langchain_community
+langdetect
+deep-translator
+flask
+flask-restful
+flask-cors
