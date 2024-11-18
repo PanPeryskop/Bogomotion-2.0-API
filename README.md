@@ -86,18 +86,18 @@ This module uses a Llama model to generate text based on a given prompt. The mod
 
 ## Project Structure
 
-- [bogo_audio.py](http://_vscodecontentref_/0): Contains the `BogoAudio` class for audio emotion detection.
-- [bogo_img.py](http://_vscodecontentref_/1): Contains the `BogoImage` class for image emotion detection.
-- [bogo_qual.py](http://_vscodecontentref_/2): Contains the `BogoQualityChecker` class for image quality checking.
-- [bogo_llm.py](http://_vscodecontentref_/3): Contains the `BogoLlm` class for language model generation.
-- [noise.py](http://_vscodecontentref_/4): Contains the `BogoNoise` class for noise detection.
-- [bogo_api.py](http://_vscodecontentref_/5): Contains the Flask API implementation.
-- [training.ipynb](http://_vscodecontentref_/6): Jupyter notebook for training the YOLO model.
-- [config.yaml](http://_vscodecontentref_/7): Configuration file for training the YOLO model.
+- [bogo_audio.py](https://github.com/PanPeryskop/Bogomotion-2.0-API/blob/main/bogo_audio.py): Contains the `BogoAudio` class for audio emotion detection.
+- [bogo_img.py](https://github.com/PanPeryskop/Bogomotion-2.0-API/blob/main/bogo_img.py): Contains the `BogoImage` class for image emotion detection.
+- [bogo_qual.py](https://github.com/PanPeryskop/Bogomotion-2.0-API/blob/main/bogo_qual.py): Contains the `BogoQualityChecker` class for image quality checking.
+- [bogo_llm.py](https://github.com/PanPeryskop/Bogomotion-2.0-API/blob/main/bogo_llm.py): Contains the `BogoLlm` class for language model generation.
+- [noise.py](https://github.com/PanPeryskop/Bogomotion-2.0-API/blob/main/noise.py): Contains the `BogoNoise` class for noise detection.
+- [bogo_api.py](https://github.com/PanPeryskop/Bogomotion-2.0-API/blob/main/bogo_api.py): Contains the Flask API implementation.
+- [training.ipynb](https://github.com/PanPeryskop/Bogomotion-2.0-API/blob/main/training.ipynb): Jupyter notebook for training the YOLO model.
+- [config.yaml](https://github.com/PanPeryskop/Bogomotion-2.0-API/blob/main/config.yaml): Configuration file for training the YOLO model.
 
 ## Model Training
 
-- The process of training the YOLO model is documented in the [training.ipynb](http://_vscodecontentref_/8) notebook.
-- Training parameters are configured in the [config.yaml](http://_vscodecontentref_/9) file.
+- The process of training the YOLO model is documented in the [training.ipynb](https://github.com/PanPeryskop/Bogomotion-2.0-API/blob/main/training.ipynb) notebook.
+- Training parameters are configured in the [config.yaml](https://github.com/PanPeryskop/Bogomotion-2.0-API/blob/main/config.yaml) file.
 - The final model was trained on a dataset of images using the YOLOv11 medium model.
 - The model was trained for 300 epochs.
