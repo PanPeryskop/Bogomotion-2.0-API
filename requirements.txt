@@ -10,6 +10,7 @@ ultralytics
 langchain
 langchain_community
 langdetect
+llama-cpp-python
 deep-translator
 flask
 flask-restful
